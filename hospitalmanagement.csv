@@ -1,0 +1,2 @@
+patient_id,patient_name,gendar,date_of_birth,age,phone_number,blood_group,room_number,status,created_date
+101,sampath,male,2001-11-25,24,8845712568,o-,5000,sick,2026-05-19 15:00:53
