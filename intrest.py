@@ -4,4 +4,4 @@ time  = float(input("Enter the months : "))
 
 calculate = (givenPrice * intrest * time)/100
 
-print(f"Toatal Amount is  {calculate}" )
+print("Toatal amount is :",calculate )
